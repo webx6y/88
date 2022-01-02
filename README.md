@@ -1,6 +1,6 @@
 # xʀᴀʏ+ᴠʟᴇꜱꜱ ꜱᴇʀᴠᴇʀ.
 
-⭕ ʏᴏᴜ ᴄᴀɴ ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ᴠ2ʀᴀʏ ꜱᴇʀᴠᴇʀ ᴜꜱɪɴɢ ᴛʜɪꜱ ʀᴇᴘᴏꜱɪᴛᴏʀʏ.
+⭕ ʏᴏᴜ ᴄᴀɴ ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ 88 ꜱᴇʀᴠᴇʀ ᴜꜱɪɴɢ ᴛʜɪꜱ ʀᴇᴘᴏꜱɪᴛᴏʀʏ.
 
 ⭕ ʏᴏᴜ ᴄᴀɴ ᴏɴʟʏ ꜱᴇʟᴇᴄᴛ ᴛʜᴇ ᴜꜱ ᴏʀ ᴇᴜʀᴏᴘᴇ ʀᴇɢɪᴏɴ ᴛᴏ ʙᴜɪʟᴅ ʏᴏᴜʀ ꜱᴇʀᴠᴇʀ.
 
@@ -25,11 +25,11 @@ ___
    - [ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ] ʙᴜᴛᴛᴏɴ👇👇
 
 
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/heshan2/heroku-xray-server"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/webx6y/88"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ⭕ ᴄʜᴏᴏꜱᴇ ᴛʜᴇ ʀᴇɢɪᴏɴ ᴛʜᴀᴛ ᴡᴏʀᴋꜱ ʙᴇꜱᴛ ꜰᴏʀ ʏᴏᴜ.
    - 🔺ʀᴇᴍᴇᴍʙᴇʀ,
-   - 🔻ᴛʜᴇ ʀᴇɢɪᴏɴ ʏᴏᴜ ꜱᴇʟᴇᴄᴛᴇᴅ ɪꜱ ʏᴏᴜʀ ᴠ2ʀᴀʏ ᴀᴄᴄᴏᴜɴᴛ ꜱᴇᴠᴇʀ.
+   - 🔻ᴛʜᴇ ʀᴇɢɪᴏɴ ʏᴏᴜ ꜱᴇʟᴇᴄᴛᴇᴅ ɪꜱ ʏᴏᴜʀ ᴠ2 ᴀᴄᴄᴏᴜɴᴛ ꜱᴇᴠᴇʀ.
 
 ⭕ ɢᴇɴᴇʀᴀᴛᴇ ᴠ2ʀᴀʏ ᴜᴜɪᴅ ᴜꜱɪɴɢ ᴛʜɪꜱ ᴡᴇʙꜱɪᴛᴇ.https://www.uuidgenerator.net/
 
